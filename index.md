@@ -1,7 +1,7 @@
-Hello and welcome to this blog. This is Roy.
+Hello and welcome to this blog.
 
 ![Image of fast.ai logo](images/IMG_6418.JPG)
 
 ## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+It is Roy, this blog is for 4630.
