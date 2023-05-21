@@ -1,4 +1,3 @@
 # About
-
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Deep learning is the trend for every fields. It will be very beneficial if I can learn how to do the deep learning through this assignment
 
